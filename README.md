@@ -19,7 +19,7 @@ designing your code because it will be much slower on the coding game website.
 This can be worked around by simply adding a GCC pragma in the code and
 override the optimization options but I think it goes against the spirit.
 
-It takes about 450ms to run all the test cases on my iMac with -O2:
+[My solver](https://www.codingame.com/profile/19ba5595e8c4f25c5ccad920bc80857a3647602) takes about 450ms to run all the test cases on my iMac with -O2:
 ```
 Solving 000073af 00000000
 00000001 000073af
